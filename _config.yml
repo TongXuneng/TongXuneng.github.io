@@ -224,7 +224,7 @@ collections:
   project:
     output: true
     permalink: /:collection/:path/
-  people:
+  publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -264,10 +264,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _people
+  # _publications
   - scope:
       path: ""
-      type: people
+      type: publications
     values:
       layout: single
       author_profile: true
