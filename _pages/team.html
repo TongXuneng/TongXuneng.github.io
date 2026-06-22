@@ -30,25 +30,57 @@ author_profile: true
 <hr />
 
 <h3>PhD Students</h3>
-<div class="team-container">
+<div class="team-grid">
+  <!-- 学生 1: Dongxue Zheng -->
   <div class="team-member-student">
     <div class="photo">
-      <img src="{{ base_path }}/images/team/dongxue_zheng.jpg" alt="Dongxue Zheng" width="150">
+      <img src="{{ base_path }}/images/team/dongxue_zheng.jpg" alt="Dongxue Zheng" width="120">
     </div>
     <div class="info">
       <h4>Dongxue Zheng</h4>
       <p><em>2025.09-Present</em></p>
       <ul>
-        <li>MPhil, CAS University</li>
-        <li>BSc, Beijing Forestry University</li>
+        <li>MPhil, UCAS</li>
+        <li>BSc, BFU</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- 学生 2: Yabi Huang -->
+  <div class="team-member-student">
+    <div class="photo">
+      <img src="{{ base_path }}/images/team/yabi_huang.jpg" alt="Yabi Huang" width="120">
+    </div>
+    <div class="info">
+      <h4>Yabi Huang</h4>
+      <p><em>2026-Present</em></p>
+      <ul>
+        <li>MSc, Sun Yat-sen University</li>
+        <li>BSc, Sun Yat-sen University</li>
       </ul>
     </div>
   </div>
 </div>
 
 <style>
-  .team-container { display: flex; flex-direction: column; gap: 30px; }
-  .team-member-pi, .team-member-student { display: flex; gap: 20px; align-items: flex-start; }
+  /* 将容器设为两列网格 */
+  .team-grid { 
+    display: grid; 
+    grid-template-columns: repeat(2, 1fr); 
+    gap: 30px; 
+  }
+  
+  /* 调整卡片样式 */
+  .team-member-student { 
+    display: flex; 
+    gap: 15px; 
+    align-items: flex-start; 
+    border: 1px solid #eee; 
+    padding: 15px; 
+    border-radius: 8px; 
+  }
+  
   .photo img { border-radius: 8px; border: 1px solid #ddd; }
-  .info h4 { margin-top: 0; }
+  .info h4 { margin-top: 0; margin-bottom: 5px; }
+  .info ul { margin: 0; padding-left: 20px; font-size: 0.9em; }
 </style>
