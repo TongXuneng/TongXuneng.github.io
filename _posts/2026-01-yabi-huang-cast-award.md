@@ -8,7 +8,7 @@ tags:
   - Students
 ---
 
-<img src="{{ site.baseurl }}/images/news/Yabi_Award_2026_01.jpg" alt="Yabi Huang Award" style="max-width: 100%; border-radius: 8px;">
+![Yabi Huang Award](/images/news/Yabi_Award_2026_01.jpg)
 
 The School of Energy and Environment (SEE) at City University of Hong Kong is pleased to announce that Miss Yabi Huang, a first-year PhD student under the supervision of Prof. Xuneng Tong, has been selected for the 2025 Youth Science and Technology Talent Development Program, organized by the China Association for Science and Technology (CAST).
 
