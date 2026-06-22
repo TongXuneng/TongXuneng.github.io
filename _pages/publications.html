@@ -5,32 +5,41 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<div class="wordwrap">
+  <p><strong>Peer Reviewed Journal Articles</strong><br>
+  Total: 27; First/Corresponding Author: 15; ESI Highly Cited Paper: 1; Corresponding author*, Co-first author#.</p>
+</div>
 
-
-
+<div class="publications-list">
+  <ol>
+    <li>Chen, Y., Hu, S., Yang, Y., Cui, K., Zhu, C., Zhang, M., ... & <strong>Tong, X</strong>*. (2026). Modelling and assessing eutrophication and antibiotic risks in a lake system under large‑scale water diversion. Journal of Hydrology, 135255.</li>
+    <li>Lyu, X., Xiao, Q., Cong, R., Yi, F., Sun, S., <strong>Tong, X</strong>., & Jiang, P. (2025). Risk assessment and management of antimicrobial resistance in clinical and aquatic environments related to pandemics: A review. Journal of Hazardous Materials Advances, 100986.</li>
+    <li>Chen, Y., Zhang, X., Cui, K., Huang, Q., Yu, K. F., Zhang, J., <strong>Tong, X</strong>., ... & He, Y. (2025). Dynamic characteristics of planktonic bacterial and micro-eukaryotic communities and their response mechanisms to combined pollutants in river-reservoir system. Water Research, 125179.</li>
+    <li>Ju, H., <strong>Tong, X</strong>., He, Y., Yuan, Y., Gin, K. Y. H., & Zhang, J. (2025). Unraveling Key Drivers of Antibiotic Fate and Ecological Risk in Ice-Covered Lakes Through Multi-Compartment Analysis. Water Research, 124888.</li>
+    <li>Yuan, Y., Ju, H., <strong>Tong, X</strong>., Xu, F., Zhang, J., & Gin, K. Y. H. (2025). A comprehensive framework of health risk assessment for antibiotic resistance in aquatic environments: Status, progress, and perspectives. Journal of Hazardous Materials, 139748.</li>
+    <li>Yu, K., Mohapatra, S., Chen, Y., Jiang, P., & <strong>Tong, X</strong>*. (2025). Interactive Effects of Climate Change and Contaminants in Aquatic Ecosystems on Environmental-Human Health. Current Pollution Reports, 11(1), 1-11.</li>
+    <li>Yuan, Y., Ju, H., <strong>Tong, X</strong>., Xu, F., Zhang, J., & Gin, K. Y. H. (2025). A comprehensive framework of health risk assessment for antibiotic resistance in aquatic environments: Status, progress, and perspectives. Journal of Hazardous Materials, 139748.</li>
+    <li><strong>Tong, X</strong>., Xiang, Z., Goh, S. G., You, L., Mohapatra, S., Ong, G., Khor, W. C., Aung, K. T., & Gin, K. Y.-H. (2025). A hybrid modelling framework for predicting spatiotemporal dynamics of antimicrobial resistance in coastal waters. Environmental Science & Technology, 2025, 59, 26, 13410–13420.</li>
+    <li><strong>Tong, X</strong>., Xiang, Z., You, L., Zhang, J., & Gin, K. Y. H. (2025). Modelling Approach to Understanding the Nexus of Emerging Contaminants, Climate Change, and Water Security. Current Opinion in Environmental Science & Health, 100650.</li>
+    <li>Jong, M. C., <strong>Tong, X</strong>., Chen, M., Tay, S. H. X., Trinh, D. H., Cao, Y., ... & Gin, K. Y. H. (2025). Strong Convergence of Floating Microplastics at a Small-Scale Estuarine Surface Front. Environmental Science & Technology Letters, 2025, 12, 8, 1009–1018.</li>
+    <li>Cui, M., Zhu, C., Fang, J., Mohapatra, S., Chen, Y., Li, C. X., ... & <strong>Tong, X</strong>.* (2025). Unveiling Size-Driven Effects of Silver Nanoparticles on Dissolved Organic Matter and Bacterial Interactions in Lakes. Ecosystem Health and Sustainability, 2025;11:0369.</li>
+    <li>Mohapatra, S., <strong>Tong, X</strong>., Mukherjee, S., Dubey, M., Saini, S., Luhua, Y., ... & Gin, K. Y. H. (2025). Comprehensive insights on the detection, occurrence and modelling of pharmaceuticals in surface water, groundwater, and drinking water treatment plants. Journal of Hazardous Materials Advances, 100707.</li>
+    <li>Goh, S. G., You, L., Ng, C., <strong>Tong, X</strong>., Mohapatra, S., Khor, W. C., ... & Gin, K. Y. H. (2024). A multi-pronged approach to assessing antimicrobial resistance risks in coastal waters and aquaculture systems. Water Research, 266, 122353.</li>
+    <li>Jiang P., Sun S., Goh, S., <strong>Tong, X</strong>., Chen Y., Yu K., He Y., & Gin, K. Y. H. A Rapid Approach with Machine Learning for Quantifying the Relative Burden of Antimicrobial Resistance in Natural Aquatic Environments. Water Research, 122079.</li>
+    <li><strong>Tong, X</strong>., Goh, S., Mohapatra, S., Zhang, J., You, L., He, Y., & Gin, K. Y. H. Predicting antibiotic resistance and assessing the risk burden from antibiotics: A holistic modelling framework in a tropical reservoir. (2024) Environmental Science & Technology, 58, 15, 6781-6792.</li>
+    <li>Hu, S., Zhang, H., Yang, Y., Cui K., Ao, J., <strong>Tong, X</strong>.*, Shi, M., Wang, Yi., Chen, X., Li, C., Chen, H* (2024). Comprehensive insight into the occurrence characteristics, influencing factors and risk assessments of antibiotics in the Chaohu basin. Frontiers of Environmental Science & Engineering, 18 (5): 57.</li>
+    <li>Liu, X. #, <strong>Tong, X</strong>. *, #, Wu, L., Xue H., & Liu, R. (2023). An integrated modelling framework for multiple pollution source identification in surface water. Journal of Environmental Management, 347, 119126.</li>
+    <li>Liu, X. #, <strong>Tong, X</strong>. *, #, Yang, T., Mohapatra, S., Hua, Z., Zhang, Y., ... & Xue, H. (2023). Insights into effects of discharge ratio on flow characteristics and pollutant transport in a Y-shaped open channel confluence with emergent rigid vegetation. Journal of Environmental Management, 332, 117421.</li>
+    <li>Zhang, Y., Liu, X., Yu, L., Hua, Z., Zhao, L., Xue, H., & <strong>Tong, X</strong>. (2022). Perfluoroalkyl acids in representative edible aquatic species from the lower Yangtze River: Occurrence, distribution, sources, and health risk. Journal of Environmental Management, 317, 115390.</li>
+    <li><strong>Tong, X</strong>., Liu, X., Yang, T., Mohapatra, S., Hua, Z., Zhang, Y., ... & Xue, H. (2022). An experimental study of hydrodynamics and contaminant transport in a Y‐shaped confluence with flexible submerged vegetation. Hydrological Processes, 36(8), e14661.</li>
+    <li><strong>Tong, X</strong>., Mohapatra, S., Zhang, J., Tran, N. H., You, L., He, Y., & Gin, K. Y. H. (2022). Source, fate, transport and modelling of selected emerging contaminants in the aquatic environment: Current status and future perspectives. Water Research, 217, 118418. (ESI Highly Cited Paper, Top 10 Most Cited Paper in Water Research published after 2022).</li>
+    <li><strong>Tong, X</strong>., You, L., Zhang, J., He, Y., & Gin, K. Y. H. (2022). Advancing prediction of emerging contaminants in a tropical reservoir with general water quality indicators based on a hybrid process and data-driven approach. Journal of Hazardous Materials, 430, 128492.</li>
+    <li>You, L., <strong>Tong, X</strong>., Te, S. H., Tran, N. H., bte Sukarji, N. H., He, Y., & Gin, K. Y. H. (2022). Multi- class secondary metabolites in cyanobacterial blooms from a tropical water body: Distribution patterns and real-time prediction. Water Research, 212, 118129.</li>
+    <li>Jong, M. C., <strong>Tong, X</strong>., Li, J., Xu, Z., Chng, S. H. Q., He, Y., & Gin, K. Y. H. (2022). Microplastics in equatorial coasts: Pollution hotspots and spatiotemporal variations associated with tropical monsoons. Journal of Hazardous Materials, 424, 127626.</li>
+    <li><strong>Tong, X</strong>., You, L., Zhang, J., Chen, H., Nguyen, V. T., He, Y., & Gin, K. Y. H. (2021). A comprehensive modelling approach to understanding the fate, transport and potential risks of emerging contaminants in a tropical reservoir. Water Research, 200, 117298.</li>
+    <li><strong>Tong, X</strong>., Jong, M. C., Zhang, J., You, L., & Gin, K. Y. H. (2021). Modelling the spatial and seasonal distribution, fate and transport of floating plastics in tropical coastal waters. Journal of Hazardous Materials, 414, 125502.</li>
+    <li><strong>Tong, X</strong>., Liu, X., Yang, T., Hua, Z., Wang, Z., Liu, J., & Li, R. (2019). Hydraulic features of flow through local non-submerged rigid vegetation in the Y-shaped confluence channel. Water, 11(1), 146.</li>
+  </ol>
+</div>
