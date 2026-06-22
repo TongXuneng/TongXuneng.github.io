@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-We are a research team based at the [School of Energy and Environment](https://www.cityu.edu.hk/see/) and [State Key Laboratory of Marine Environental Health](https://www.cityu.edu.hk/sklmeh/), City University of Hong Kong. The Hydro-Env Modelling Group at CityUHK specializes in investigating the complex dynamics of aquatic environments. Our research core lies in the integration of process-based physical modeling and data-driven computational approaches to understand and predict the transport and fate of microbial and chemical contaminants. By bridging the gap between theoretical modeling and field-scale applications, we strive to provide robust scientific insights for sustainable water quality management and ecosystem resilience.
+We are a research team based at the [School of Energy and Environment](https://www.cityu.edu.hk/see/) and [State Key Laboratory of Marine Environental Health](https://www.cityu.edu.hk/sklmeh/), City University of Hong Kong. The Hydro-Env Modelling Group at CityUHK specializes in investigating the complex dynamics of aquatic environments. Our research core lies in the integration of advanced process-based modelling and data-driven computational approaches to understand and predict the transport and fate of microbial and chemical contaminants. By bridging the gap between theoretical modeling and field-scale applications, we strive to provide robust scientific insights for sustainable water quality management and ecosystem resilience.
 
 Key Research Interests
 ======
