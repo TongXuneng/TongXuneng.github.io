@@ -19,7 +19,7 @@ Interested applicants are invited to submit their CV and a one-page cover letter
 ### Special Call: Postdoctoral Openings 
 
 **Application Timeline:**
-To ensure full consideration of this special call, interested candidates are strongly encouraged to reach out to Dr. Tong before September 2026.
+To ensure full consideration of this special call, interested candidates are strongly encouraged to reach out to Dr. Tong before **September 2026**.
 
 We are currently inviting applications for 1-2 postdoctoral researcher positions. We are looking for talented individuals with a passion for the following research areas:
 
