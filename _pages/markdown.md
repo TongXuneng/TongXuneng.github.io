@@ -9,9 +9,7 @@ redirect_from:
 {% include toc %}
 
 ### Regular Call: Position(s) Available
-We are seeking enthusiastic individuals to join our team as undergraduate/graduate interns, MPhil/PhD students, or research assistants.
-
-**Preferred Qualifications:**
+We are seeking enthusiastic individuals to join our team as undergraduate/graduate interns, MPhil/PhD students, or research assistants. We prefer the candidate with the qualifications below:
 
 **Academic Background:** Ideal candidates should possess an academic background in environmental science, ecology, hydraulics, hydrology, geography, computer science, remote sensing, or related disciplines.
 
@@ -29,8 +27,8 @@ To ensure full consideration of this special call, interested candidates are str
 
 We are currently inviting applications for 1-2 postdoctoral researcher positions. We are looking for talented individuals with a passion for the following research areas:
 
-*   **Development and Application of Hydro-Environmental and Ecological Models.**
-*   **Hydro-Environmental Simulation and Forecasting** based on mechanism-data fusion technologies.
-*   **Transport and Transformation Mechanisms** of emerging and complex pollutants in watershed-coastal systems.
-*   **Multi-Source Big Data Analysis** and data mining technologies.
-*   **Remote Sensing Monitoring and Inversion Technologies** and their applications in water environment modelling.
+*   Development and Application of Hydro-Environmental and Ecological Models.
+*   Hydro-Environmental Simulation and Forecasting based on mechanism-data fusion technologies.
+*   Transport and Transformation Mechanisms of emerging and complex pollutants in watershed-coastal systems.
+*   Multi-Source Big Data Analysis and data mining technologies.
+*   Remote Sensing Monitoring and Inversion Technologies and their applications in water environment modelling.
