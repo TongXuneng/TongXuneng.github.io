@@ -1,6 +1,6 @@
 # Research Group Website - Prof. Xuneng TONG
 
-Welcome to the official website of the research group led by **Prof. Xuneng TONG** at the School of Energy and Environment, City University of Hong Kong.
+Welcome to the website of the research group led by **Prof. Xuneng TONG** at the School of Energy and Environment, City University of Hong Kong.
 
 ## About this site
 This website serves as a platform to showcase our latest research initiatives, team members, and academic activities.
