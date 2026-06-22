@@ -8,11 +8,17 @@ redirect_from:
 
 {% include toc %}
 
-We are seeking enthusiastic individuals to join our team as undergraduate/graduate interns, MPhil/PhD students, postdoctoral researchers, or research assistants. 
+### Regular Call: Position(s) Available
+We are seeking enthusiastic individuals to join our team as undergraduate/graduate interns, MPhil/PhD students, or research assistants.
 
-Ideal candidates should possess an academic background in environmental science, ecology, hydraulics, hydrology, geography, computer science, remote sensing, or related disciplines. Additionally, candidates with technical expertise in hydro-environmental modelling and proficiency in programming languages—specifically Python, R, Fortran, or MATLAB—are highly preferred.
+**Preferred Qualifications:**
 
-Interested applicants are invited to submit their CV and a one-page cover letter to Dr. Tong at [xuneng.tong@cityu.edu.hk](mailto:xuneng.tong@cityu.edu.hk). The review of applications will begin immediately and will continue until all positions are filled.
+**Academic Background:** Ideal candidates should possess an academic background in environmental science, ecology, hydraulics, hydrology, geography, computer science, remote sensing, or related disciplines.
+
+**Technical Expertise:** Candidates with technical expertise in hydro-environmental modelling and proficiency in programming languages—specifically Python, R, Fortran, or MATLAB—are highly preferred.
+
+**How to Apply:**
+Interested applicants are invited to submit their CV and a one-page cover letter to Prof. Tong at [xuneng.tong@cityu.edu.hk](mailto:xuneng.tong@cityu.edu.hk). The review of applications will begin immediately and will continue until all positions are filled.
 
 ---
 
@@ -28,8 +34,3 @@ We are currently inviting applications for 1-2 postdoctoral researcher positions
 *   **Transport and Transformation Mechanisms** of emerging and complex pollutants in watershed-coastal systems.
 *   **Multi-Source Big Data Analysis** and data mining technologies.
 *   **Remote Sensing Monitoring and Inversion Technologies** and their applications in water environment modelling.
-
-**Preferred Qualifications:**
-*   **Academic Background:** Applicants should have a degree in Environmental Science, Ecology, Hydraulic Engineering, Hydrology, Geography, Computer Science, Remote Sensing, or related fields.
-*   **Technical Expertise:** Proven experience in water environment modelling and proficiency in programming languages such as Python, R, Fortran, or MATLAB.
-
