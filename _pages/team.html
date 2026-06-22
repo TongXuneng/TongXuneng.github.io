@@ -7,6 +7,48 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.team %}
-  {% include archive-single.html %}
-{% endfor %}
+<h3>Group Leader</h3>
+<div class="team-container">
+  <div class="team-member-pi">
+    <div class="photo">
+      <!-- 请将图片文件放在 images/team/ 文件夹下 -->
+      <img src="{{ base_path }}/images/team/tong_xuneng.jpg" alt="Prof. Xuneng TONG" width="200">
+    </div>
+    <div class="info">
+      <h4>Prof. Xuneng TONG</h4>
+      <p><strong>Assistant Professor, Principal Investigator</strong></p>
+      <p>School of Energy and Environment, City University of Hong Kong<br>
+      State Key Laboratory of Marine Environmental Health</p>
+      <p>Office: B5426, Yeung Kin Man Academic Building, CityUHK<br>
+      Tel: +852-3442-2460<br>
+      Email: <a href="mailto:xuneng.tong@cityu.edu.hk">xuneng.tong@cityu.edu.hk</a></p>
+      <p><a href="{{ base_path }}/cv/">[View Full Profile]</a></p>
+    </div>
+  </div>
+</div>
+
+<hr />
+
+<h3>PhD Students</h3>
+<div class="team-container">
+  <div class="team-member-student">
+    <div class="photo">
+      <img src="{{ base_path }}/images/team/dongxue_zheng.jpg" alt="Dongxue Zheng" width="150">
+    </div>
+    <div class="info">
+      <h4>Dongxue Zheng</h4>
+      <p><em>2026-Present</em></p>
+      <ul>
+        <li>MPhil, CAS University</li>
+        <li>BSc, Beijing Forestry University</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<style>
+  .team-container { display: flex; flex-direction: column; gap: 30px; }
+  .team-member-pi, .team-member-student { display: flex; gap: 20px; align-items: flex-start; }
+  .photo img { border-radius: 8px; border: 1px solid #ddd; }
+  .info h4 { margin-top: 0; }
+</style>
