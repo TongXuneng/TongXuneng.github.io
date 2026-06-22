@@ -9,7 +9,7 @@ redirect_from:
 {% include toc %}
 
 ### Regular Call: Position(s) Available
-We are seeking enthusiastic individuals to join our team as undergraduate/graduate interns, MPhil/PhD students, or research assistants. We prefer the candidate with the qualifications below:
+We are seeking enthusiastic individuals to join our team as **undergraduate/graduate interns, MPhil/PhD students, or research assistants**. We prefer the candidate with the qualifications below:
 
 **Academic Background:** Ideal candidates should possess an academic background in environmental science, ecology, hydraulics, hydrology, geography, computer science, remote sensing, or related disciplines.
 
