@@ -11,8 +11,8 @@ author_profile: true
   <ul>
     {% for item in category.items %}
       <li>
-        <strong>{{ item.title }}</strong><br>
-        <em>Role: {{ item.role }}</em> | {{ item.date }}
+        {{ item.title }}<br>
+        <strong>Role: {{ item.role }}</strong> | {{ item.date }}
       </li>
     {% endfor %}
   </ul>
