@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-We are a research team based at the [School of Energy and Environment](https://www.cityu.edu.hk/see/) and [State Key Laboratory of Marine Environmental Health](https://www.cityu.edu.hk/sklmeh/), City University of Hong Kong. We integrate advanced process-based modelling and data-driven computational approaches to understand aquatic dynamics and contaminant transport. Our work bridges theoretical modeling with field-scale applications to support sustainable water quality management and ecosystem resilience.
+<div style="text-align: justify; line-height: 1.6;">
+  We are a research team based at the <a href="https://www.cityu.edu.hk/see/">School of Energy and Environment</a> and <a href="https://www.cityu.edu.hk/sklmeh/">State Key Laboratory of Marine Environmental Health</a>, City University of Hong Kong. We integrate advanced process-based modelling and data-driven computational approaches to understand aquatic dynamics and contaminant transport. Our work bridges theoretical modeling with field-scale applications to support sustainable water quality management and ecosystem resilience.
+</div>
 
-<h2 class="archive__subtitle"> </h2>
+<h2 class="archive__subtitle">Focus Area</h2>
 
 <div style="text-align: center; margin-bottom: 30px;">
   <img src="{{ site.baseurl }}/images/homepage.jpg" alt="Integrated Hydro-Env Modelling Framework" style="max-width: 100%; border: 1px solid #ddd; border-radius: 8px;">
@@ -19,22 +21,22 @@ We are a research team based at the [School of Energy and Environment](https://w
   
   <div style="border: 1px solid #eee; padding: 15px; border-radius: 6px;">
     <div style="text-align: center; font-weight: bold; margin-bottom: 10px;">Hydro-Environmental Modelling</div>
-    <p style="font-size: 0.9em; color: #555;">Coupling process-based mechanistic simulations with data-driven techniques to enhance predictive accuracy in complex aquatic systems.</p>
+    <p style="font-size: 0.9em; color: #555; text-align: justify;">Coupling process-based mechanistic simulations with data-driven techniques to enhance predictive accuracy in complex aquatic systems.</p>
   </div>
 
   <div style="border: 1px solid #eee; padding: 15px; border-radius: 6px;">
     <div style="text-align: center; font-weight: bold; margin-bottom: 10px;">Contaminant Fate & Transport</div>
-    <p style="font-size: 0.9em; color: #555;">Elucidating the transport and transformation of contaminants across watershed-to-coastal continua for regional risk assessment.</p>
+    <p style="font-size: 0.9em; color: #555; text-align: justify;">Elucidating the transport and transformation of contaminants across watershed-to-coastal continua for regional risk assessment.</p>
   </div>
 
   <div style="border: 1px solid #eee; padding: 15px; border-radius: 6px;">
     <div style="text-align: center; font-weight: bold; margin-bottom: 10px;">Digital Waters</div>
-    <p style="font-size: 0.9em; color: #555;">Fusing real-time sensing with high-fidelity modelling to create dynamic digital replicas for intelligent water governance.</p>
+    <p style="font-size: 0.9em; color: #555; text-align: justify;">Fusing real-time sensing with high-fidelity modelling to create dynamic digital replicas for intelligent water governance.</p>
   </div>
 
   <div style="border: 1px solid #eee; padding: 15px; border-radius: 6px;">
     <div style="text-align: center; font-weight: bold; margin-bottom: 10px;">Big Data & Mining</div>
-    <p style="font-size: 0.9em; color: #555;">Leveraging machine learning to extract non-linear spatiotemporal patterns from heterogeneous environmental datasets.</p>
+    <p style="font-size: 0.9em; color: #555; text-align: justify;">Leveraging machine learning to extract non-linear spatiotemporal patterns from heterogeneous environmental datasets.</p>
   </div>
 
 </div>
