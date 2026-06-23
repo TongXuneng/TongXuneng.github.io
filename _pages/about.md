@@ -11,7 +11,7 @@ We are a research team based at the [School of Energy and Environment](https://w
 
 <h2 class="archive__subtitle">Research Framework</h2>
 <div style="text-align: center; margin: 20px 0;">
-  <img src="{{ site.baseurl }}/assets/images/homepage.jpg" alt="Integrated Hydro-Env Modelling Framework" style="max-width: 100%; border: 1px solid #ddd; border-radius: 8px;">
+  <img src="{{ site.baseurl }}/images/homepage.jpg" alt="Integrated Hydro-Env Modelling Framework" style="max-width: 100%; border: 1px solid #ddd; border-radius: 8px;">
 </div>
 
 <h2 class="archive__subtitle">Key Research Interests</h2>
