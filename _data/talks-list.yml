@@ -1,22 +1,66 @@
----
-layout: archive
-permalink: /talks/
-author_profile: true
----
+- category: "Invited Seminars & Presentations"
+  items:
+    - date: "Dec 2025"
+      title: "Water Quality Modelling: Applications and Research"
+      venue: "Sichuan University, Chengdu, China"
+    - date: "Jul 2025"
+      title: "Water Quality Modelling Advances"
+      venue: "Hohai University, Nanjing, China"
+    - date: "Jul 2024"
+      title: "Modelling Marine Ecosystem Change"
+      venue: "Tohoku University & JAMSTEC, Japan"
+    - date: "Apr 2024"
+      title: "Understanding fate and transport of emerging contaminants in the aquatic environment"
+      venue: "Delft University of Technology, Netherlands"
+    - date: "Feb 2024"
+      title: "Modelling to understanding fate and transport of emerging contaminants"
+      venue: "University of Florida, USA"
+    - date: "Jan 2024"
+      title: "Research and application of integrated water quality modelling framework"
+      venue: "Peking University, China"
+    - date: "Oct 2023"
+      title: "Empower digital water quality management"
+      venue: "Hohai University, Nanjing, China"
+    - date: "Sep 2023"
+      title: "Source, fate, transport and modelling of emerging contaminants"
+      venue: "Shanghai Jiao Tong University, China"
 
-{% include base_path %}
+- category: "Conference Presentations"
+  items:
+    - date: "Jun 2025"
+      title: "Modelling for Understanding and Managing the Risks of Emerging Contaminants"
+      venue: "41st IAHR World Congress, Singapore (Keynote)"
+    - date: "Sep 2024"
+      title: "Understanding the transport, fate and risk of antibiotics in Singapore Coastal Waters"
+      venue: "SETAC Asia-Pacific Biennial Meeting, Tianjin, China"
+    - date: "May 2024"
+      title: "Modelling fate and transport of emerging contaminants in Singapore reservoirs"
+      venue: "8th Academic Forum on Water Environment Simulation, Tianjin (Keynote)"
+    - date: "Apr 2024"
+      title: "An integrated modelling framework to predict fate and transport of antimicrobial resistance"
+      venue: "EGU General Assembly 2024, Vienna, Austria"
+    - date: "Jun 2023"
+      title: "Identification and risk assessment of human-specific microbial source tracking markers"
+      venue: "21st Symposium on Health-related Water Microbiology, IWA, Australia"
+    - date: "Oct 2022"
+      title: "Source, fate, transport and modelling of selected emerging contaminants"
+      venue: "E2S2 Workshop, Singapore"
+    - date: "Sep 2022"
+      title: "Modelling the transport and fate of selected antibiotics and bacteria indicator"
+      venue: "EDAR, Sweden (Poster)"
+    - date: "Apr 2021"
+      title: "Modelling the fate, transport and risk of Bisphenol A and N, N-diethyltoluamide"
+      venue: "EGU General Assembly 2021, online"
 
-{% for category in site.data.talks-list %}
-  <h3 style="border-bottom: 1px solid #eee; padding-bottom: 10px; margin-top: 30px;">{{ category.category }}</h3>
-  <ul style="list-style-type: none; padding-left: 0;">
-    {% for item in category.items %}
-      <li style="margin-bottom: 15px;">
-        <div><strong>{{ item.title }}</strong></div>
-        <div style="font-size: 0.9em; color: #555;">
-          <em>{{ item.venue }}</em> 
-          <span style="float: right; color: #888;">{{ item.date }}</span>
-        </div>
-      </li>
-    {% endfor %}
-  </ul>
-{% endfor %}
+- category: "Academic Services & Session Chairing"
+  items:
+    - date: "May 2026"
+      title: "Session Chair, 10th Academic Forum on Water Environment Simulation, Shenzhen"
+    - date: "Dec 2025"
+      title: "Session Chair, 9th Yellow Sea–East China Sea–South China Sea Symposium, Dongguan"
+    - date: "Jun 2025"
+      title: "Session Co-Chair, IAHR World Congress, Singapore"
+    - date: "May 2025"
+      title: "Session Chair, 9th Academic Forum on Water Environment Simulation, Nanning"
+    - date: "Jun 2024"
+      title: "Session Co-Chair, Singapore International Water Week (SIWW) Water Convention"
