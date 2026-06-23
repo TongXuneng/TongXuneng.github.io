@@ -109,24 +109,39 @@ author_profile: true
 </ul>
 
 <style>
-  /* Standardize header sizes */
-  .section-header { margin-top: 30px !important; margin-bottom: 15px !important; font-size: 1.17em !important; }
-  .team-title { margin: 0 0 5px 0 !important; font-size: 1.17em !important; }
+  /* 基础标题样式 */
+  .section-header { margin-top: 40px !important; margin-bottom: 20px !important; font-size: 1.3em !important; border-bottom: 2px solid #eee; padding-bottom: 5px; }
+  .team-title { margin: 0 0 5px 0 !important; font-size: 1.1em !important; }
   
-  .team-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin-bottom: 30px; }
-  .team-member-student { display: flex; gap: 15px; align-items: flex-start; border: 1px solid #eee; padding: 15px; border-radius: 8px; }
-  .photo img { border-radius: 8px; border: 1px solid #ddd; object-fit: cover; height: 120px; width: 100px; }
-  .info ul { margin: 0; padding-left: 20px; font-size: 0.9em; }
-</style>
-
-<style>
-  /* 强制所有成员头像的大小统一 */
+  /* 智能响应式网格：在手机上自动变单列，在电脑上自动变多列 */
+  .team-grid { 
+    display: grid; 
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); 
+    gap: 20px; 
+    margin-bottom: 30px; 
+  }
+  
+  /* 成员卡片设计 */
+  .team-member-student { 
+    display: flex; 
+    gap: 15px; 
+    align-items: flex-start; 
+    border: 1px solid #eee; 
+    padding: 15px; 
+    border-radius: 8px; 
+  }
+  
+  /* 核心：统一头像大小，强制对齐 */
   .photo img { 
-    width: 110px !important;  /* 强制统一宽度 */
-    height: 140px !important; /* 强制统一高度 */
-    object-fit: cover !important; /* 关键：自动裁剪并填满框，保持比例 */
-    object-position: center top !important; /* 确保头像头部居中显示 */
-    border-radius: 6px;
+    border-radius: 6px; 
+    border: 1px solid #ddd; 
+    object-fit: cover; /* 自动裁剪，统一比例 */
+    height: 140px; 
+    width: 110px; 
     display: block;
   }
+  
+  /* 信息排版优化 */
+  .info p { margin: 0 0 5px 0 !important; font-size: 0.95em; }
+  .info ul { margin: 5px 0 0 0; padding-left: 18px; font-size: 0.9em; color: #555; }
 </style>
