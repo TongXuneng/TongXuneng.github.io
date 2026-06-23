@@ -15,12 +15,9 @@ Current Position
 Academic Qualifications
 ======
 * Ph.D. in Environmental Engineering, National University of Singapore, 2023
-  * Thesis: Modelling the transport and fate of emerging contaminants in Singapore coastal and fresh waters
-  * Graduate Advisor: Prof. Karina GIN
 * B.Eng. in Environmental Science, Hohai University, 2019
-  * Thesis: Vegetated flow and pollutant transport within the Y-shaped confluence
 * Dual-B.B.A. in Business Administration, Hohai University, 2019
-  * Thesis: Evaluation in P2P project using Fuzzy comprehensive evaluation method
+
 
 Employment Experience
 ======
