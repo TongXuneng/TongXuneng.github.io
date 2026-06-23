@@ -29,14 +29,15 @@ redirect_from:
     <p style="font-size: 0.9em; color: #555; text-align: justify;">Elucidating the transport and transformation of contaminants across watershed-to-coastal continua for regional risk assessment.</p>
   </div>
 
+    <div style="border: 1px solid #eee; padding: 15px; border-radius: 6px;">
+    <div style="text-align: center; font-weight: bold; margin-bottom: 10px;">Big Data & Mining</div>
+    <p style="font-size: 0.9em; color: #555; text-align: justify;">Leveraging machine learning to extract non-linear spatiotemporal patterns from heterogeneous environmental datasets.</p>
+  </div>
+
   <div style="border: 1px solid #eee; padding: 15px; border-radius: 6px;">
     <div style="text-align: center; font-weight: bold; margin-bottom: 10px;">Digital Waters</div>
     <p style="font-size: 0.9em; color: #555; text-align: justify;">Fusing real-time sensing with high-fidelity modelling to create dynamic digital replicas for intelligent water governance.</p>
   </div>
 
-  <div style="border: 1px solid #eee; padding: 15px; border-radius: 6px;">
-    <div style="text-align: center; font-weight: bold; margin-bottom: 10px;">Big Data & Mining</div>
-    <p style="font-size: 0.9em; color: #555; text-align: justify;">Leveraging machine learning to extract non-linear spatiotemporal patterns from heterogeneous environmental datasets.</p>
-  </div>
 
 </div>
