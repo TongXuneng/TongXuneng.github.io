@@ -6,7 +6,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% for category in site.data.projects %}
+{% for category in site.data.project-list %}
   <h3>{{ category.category }}</h3>
   <ul>
     {% for item in category.items %}
