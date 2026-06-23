@@ -118,3 +118,15 @@ author_profile: true
   .photo img { border-radius: 8px; border: 1px solid #ddd; object-fit: cover; height: 120px; width: 100px; }
   .info ul { margin: 0; padding-left: 20px; font-size: 0.9em; }
 </style>
+
+<style>
+  /* 强制所有成员头像的大小统一 */
+  .photo img { 
+    width: 110px !important;  /* 强制统一宽度 */
+    height: 140px !important; /* 强制统一高度 */
+    object-fit: cover !important; /* 关键：自动裁剪并填满框，保持比例 */
+    object-position: center top !important; /* 确保头像头部居中显示 */
+    border-radius: 6px;
+    display: block;
+  }
+</style>
