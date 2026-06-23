@@ -9,10 +9,10 @@
 
 main:
 
-  - title: "Prof. TONG"
+  - title: "About PI"
     url: /cv/
 
-  - title: "Team"
+  - title: "People"
     url: /team/
     
   - title: "Publications"
@@ -21,7 +21,7 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Project"
+  - title: "Projects"
     url: /project/    
     
   - title: "News"
@@ -32,5 +32,5 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Open Position"
+  - title: "Join Us"
     url: /markdown/
