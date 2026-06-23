@@ -6,19 +6,16 @@ author_profile: true
 
 {% include base_path %}
 
-<style>
-  .talk-tag { background: #007bff; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.75em; margin-right: 8px; vertical-align: middle; }
-  .keynote { background: #d9534f; }
-</style>
-
 {% for category in site.data.talks-list %}
-  <h3>{{ category.category }}</h3>
-  <ul>
+  <h3 style="border-bottom: 1px solid #eee; padding-bottom: 10px; margin-top: 30px;">{{ category.category }}</h3>
+  <ul style="list-style-type: none; padding-left: 0;">
     {% for item in category.items %}
-      <li>
-        <span class="talk-tag {% if item.type == 'Keynote' %}keynote{% endif %}">{{ item.type }}</span>
-        <strong>{{ item.title }}</strong><br>
-        <span style="color: #666;"><em>{{ item.venue }}</em> | {{ item.date }}</span>
+      <li style="margin-bottom: 15px;">
+        <div><strong>{{ item.title }}</strong></div>
+        <div style="font-size: 0.9em; color: #555;">
+          <em>{{ item.venue }}</em> 
+          <span style="float: right; color: #888;">{{ item.date }}</span>
+        </div>
       </li>
     {% endfor %}
   </ul>
