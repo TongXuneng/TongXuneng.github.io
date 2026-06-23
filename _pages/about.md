@@ -37,9 +37,5 @@ We are a research team based at the [School of Energy and Environment](https://w
     <p style="font-size: 0.9em; color: #555;">Leveraging machine learning to extract non-linear spatiotemporal patterns from heterogeneous environmental datasets.</p>
   </div>
 
-  <div style="border: 1px solid #eee; padding: 15px; border-radius: 6px;">
-    <strong>Remote Sensing Synergy</strong>
-    <p style="font-size: 0.9em; color: #555;">Integrating satellite, UAV, and ground-based observations into numerical models for comprehensive monitoring and early warning.</p>
-  </div>
 
 </div>
