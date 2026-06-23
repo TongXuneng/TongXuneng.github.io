@@ -34,12 +34,4 @@ We are seeking enthusiastic individuals to join our team as **undergraduate/grad
   <p style="margin: 0;">We are currently inviting applications for <strong>1-2 Postdoctoral Research Fellows</strong> to spearhead cutting-edge research in integrated hydro-environmental systems. To ensure full consideration, interested candidates are strongly encouraged to contact Prof. Tong before <strong>September 2026</strong>.</p>
 </div>
 
-<p>We are seeking highly motivated individuals to contribute to our core research portfolio, which encompasses:</p>
 
-<ul>
-  <li><strong>Advanced Hydro-Environmental Modelling:</strong> Development and application of next-generation ecological and water-quality models.</li>
-  <li><strong>Mechanism-Data Fusion:</strong> Innovative hydro-environmental simulation and forecasting through integrated mechanistic and data-driven technologies.</li>
-  <li><strong>Pollutant Dynamics:</strong> Investigating the transport and transformation of complex contaminants in watershed-to-coastal systems.</li>
-  <li><strong>Big Data & Analytics:</strong> Leveraging multi-source data mining to extract critical spatiotemporal insights.</li>
-  <li><strong>Remote Sensing Synergy:</strong> Advancing monitoring and inversion technologies to bridge the gap between observation and prediction.</li>
-</ul>
