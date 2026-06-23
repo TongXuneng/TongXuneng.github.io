@@ -28,10 +28,10 @@ We are seeking enthusiastic individuals to join our team as **undergraduate/grad
 
 <hr />
 
-### Special Call: 1-2 Postdoctoral Openings 
+### Special Call: Postdoctoral Openings
 
 <div style="background: #fffbf0; padding: 20px; border-radius: 8px; border: 1px solid #ffe8cc; margin-bottom: 20px;">
-  <p style="margin: 0;">We are currently inviting applications for <strong>1-2 Postdoctoral Researchers to spearhead cutting-edge research in big data and remote sensing applications in hydro-environmental modelling</strong>. To ensure full consideration, interested candidates are strongly encouraged to contact Prof. Tong before <strong>September 2026</strong>.</p>
+  <p style="margin: 0;">We are currently inviting applications for 1-2 Postdoctoral Researchers to spearhead cutting-edge research in big data and remote sensing applications in hydro-environmental modelling. To ensure full consideration, interested candidates are strongly encouraged to contact Prof. Tong before <strong>September 2026</strong>.</p>
 </div>
 
 
