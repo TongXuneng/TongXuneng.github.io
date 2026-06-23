@@ -28,20 +28,18 @@ We are seeking enthusiastic individuals to join our team as **undergraduate/grad
 
 <hr />
 
-### Special Call: Postdoctoral Openings 
+### Special Call: 1-2 Postdoctoral Openings 
 
 <div style="background: #fffbf0; padding: 20px; border-radius: 8px; border: 1px solid #ffe8cc; margin-bottom: 20px;">
-  <strong>Application Timeline:</strong> To ensure full consideration of this special call, interested candidates are strongly encouraged to reach out to Dr. Tong before <strong>September 2026</strong>.
+  <p style="margin: 0;">We are currently inviting applications for <strong>1-2 Postdoctoral Research Fellows</strong> to spearhead cutting-edge research in integrated hydro-environmental systems. To ensure full consideration, interested candidates are strongly encouraged to contact Prof. Tong before <strong>September 2026</strong>.</p>
 </div>
 
-<p>We are currently inviting applications for 1-2 postdoctoral researcher positions. We are looking for talented individuals with a passion for the following research areas:</p>
+<p>We are seeking highly motivated individuals to contribute to our core research portfolio, which encompasses:</p>
 
-<div style="column-count: 2; column-gap: 20px;">
-  <ul>
-    <li>Development and Application of Hydro-Environmental and Ecological Models.</li>
-    <li>Hydro-Environmental Simulation and Forecasting based on mechanism-data fusion technologies.</li>
-    <li>Transport and Transformation Mechanisms of emerging and complex pollutants in watershed-coastal systems.</li>
-    <li>Multi-Source Big Data Analysis and data mining technologies.</li>
-    <li>Remote Sensing Monitoring and Inversion Technologies and their applications in water environment modelling.</li>
-  </ul>
-</div>
+<ul>
+  <li><strong>Advanced Hydro-Environmental Modelling:</strong> Development and application of next-generation ecological and water-quality models.</li>
+  <li><strong>Mechanism-Data Fusion:</strong> Innovative hydro-environmental simulation and forecasting through integrated mechanistic and data-driven technologies.</li>
+  <li><strong>Pollutant Dynamics:</strong> Investigating the transport and transformation of complex contaminants in watershed-to-coastal systems.</li>
+  <li><strong>Big Data & Analytics:</strong> Leveraging multi-source data mining to extract critical spatiotemporal insights.</li>
+  <li><strong>Remote Sensing Synergy:</strong> Advancing monitoring and inversion technologies to bridge the gap between observation and prediction.</li>
+</ul>
