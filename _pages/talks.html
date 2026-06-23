@@ -6,35 +6,20 @@ author_profile: true
 
 {% include base_path %}
 
-<h3>Academic Services & Session Chairing</h3>
-<ul>
-  <li><strong>Session Chair</strong>, 10th Academic Forum on Water Environment Simulation and Prediction, Shenzhen, China, May 2026.</li>
-  <li><strong>Session Chair</strong>, The 9th Yellow Sea–East China Sea–South China Sea Ecosystem Symposium, Dongguan, China, Dec 2025.</li>
-  <li><strong>Session Co-Chair</strong>, IAHR World Congress, Singapore, June 2025.</li>
-  <li><strong>Session Chair</strong>, 9th Academic Forum on Water Environment Simulation and Prediction, Nanning, China, May 2025.</li>
-  <li><strong>Session Co-Chair</strong>, Singapore International Water Week (SIWW) Water Convention, Singapore, June 2024.</li>
-</ul>
+<style>
+  .talk-tag { background: #007bff; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.75em; margin-right: 8px; vertical-align: middle; }
+  .keynote { background: #d9534f; }
+</style>
 
-<h3>Conference Presentations</h3>
-<ol>
-  <li><strong>Tong, X.</strong>, "Modelling for Understanding and Managing the Risks of Emerging Contaminants in Water Systems in Singapore and China," <em>41st IAHR World Congress</em>, Singapore, Jun 2025. (Invited Speaker)</li>
-  <li><strong>Tong, X.</strong>, Goh, S. G., You, L., Zhang, J., Aung, K. T., Khor, W. C., and Gin, K. Y. H., "Understanding the transport, fate and risk of antibiotics in Singapore Coastal Waters using an integrated monitoring-modelling framework," <em>SETAC Asia-Pacific Biennial Meeting</em>, Tianjin, China, Sep 2024. (Oral Presentation)</li>
-  <li><strong>Tong, X.</strong>, "Modelling fate and transport of emerging contaminants in Singapore reservoirs and coastal waters," <em>The 8th Academic Forum on Water Environment Simulation and Prediction</em>, Tianjin, China, May 2024. (Keynote)</li>
-  <li><strong>Tong, X.</strong>, You, L., Goh, S. G., Ng, S. C. M., Zhang, J., Aung, K. T., Khor, W. C., and Gin, K. Y. H., "An integrated modelling framework to predict the fate and transport of antimicrobial resistance in Singapore coastal waters," <em>EGU General Assembly 2024</em>, Vienna, Austria, Apr 2024. (Oral Presentation)</li>
-  <li><strong>Tong, X.</strong>, Goh, S., Ng, C., Zhang, J., and Gin, K. Y.-H., "Identification and risk assessment of human-specific microbial source tracking markers using an integrated modelling framework," <em>21st Symposium on Health-related Water Microbiology, IWA</em>, Darwin, Australia, Jun 2023. (Oral Presentation)</li>
-  <li><strong>Tong, X.</strong>, He, Y., & Gin, K. Y. H., "Source, fate, transport and modelling of selected emerging contaminants in the aquatic environment: Current status and future perspectives," <em>E2S2 Workshop</em>, Singapore, Oct 2022. (Oral Presentation)</li>
-  <li><strong>Tong, X.</strong>, Goh, S., Zhang, J., He, Y., & Gin, K. Y. H., "Modelling the transport and fate of selected antibiotics, bacteria indicator and their correlation with antibiotic resistance in a Singapore tropical reservoir," <em>EDAR</em>, Sweden, Sep 2022. (Poster)</li>
-  <li><strong>Tong, X.</strong>, Zhang, J., You, L., and Gin, K. Y.-H., "Modelling the fate, transport and risk of Bisphenol A and N, N-diethyltoluamide in a tropical reservoir," <em>EGU General Assembly 2021</em>, online, Apr 2021. (Oral Presentation)</li>
-</ol>
-
-<h3>Invited Seminars & Presentations</h3>
-<ul>
-  <li><strong>Dec 2025</strong>: "Water Quality Modelling: Applications and Research", <em>Sichuan University</em>, Chengdu, China.</li>
-  <li><strong>Jul 2025</strong>: "Water Quality Modelling Advances", <em>Hohai University</em>, Nanjing, China.</li>
-  <li><strong>Jul 2024</strong>: "Modelling Marine Ecosystem Change", <em>Tohoku University & JAMSTEC</em>, Japan.</li>
-  <li><strong>Apr 2024</strong>: "Understanding fate and transport of emerging contaminants in the aquatic environment through modelling", <em>Delft University of Technology</em>, Delft, Netherlands.</li>
-  <li><strong>Feb 2024</strong>: "Modelling to understanding fate and transport of emerging contaminants in the aquatic environment", <em>University of Florida</em>, Gainesville, USA.</li>
-  <li><strong>Jan 2024</strong>: "Research and application of integrated water quality modelling framework for emerging contaminants", <em>Peking University</em>, China.</li>
-  <li><strong>Oct 2023</strong>: "Empower digital water quality management using integrated monitoring and modelling platform", <em>Hohai University</em>, Nanjing, China.</li>
-  <li><strong>Sep 2023</strong>: "Source, fate, transport and modelling of emerging contaminants in the aquatic environment", <em>Shanghai Jiao Tong University</em>, Shanghai, China.</li>
-</ul>
+{% for category in site.data.talks-list %}
+  <h3>{{ category.category }}</h3>
+  <ul>
+    {% for item in category.items %}
+      <li>
+        <span class="talk-tag {% if item.type == 'Keynote' %}keynote{% endif %}">{{ item.type }}</span>
+        <strong>{{ item.title }}</strong><br>
+        <span style="color: #666;"><em>{{ item.venue }}</em> | {{ item.date }}</span>
+      </li>
+    {% endfor %}
+  </ul>
+{% endfor %}
