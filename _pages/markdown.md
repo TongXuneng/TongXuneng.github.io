@@ -8,7 +8,7 @@ redirect_from:
 
 {% include toc %}
 
-### Regular Call: Position(s) Available
+### Position(s) Available
 We are seeking enthusiastic individuals to join our team as **undergraduate/graduate interns, MPhil/PhD students, or research assistants**. We prefer candidates with the following qualifications:
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
