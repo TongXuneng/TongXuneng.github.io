@@ -23,27 +23,24 @@ redirect_from:
   <!-- 每个卡片采用左对齐 -->
   <div style="border: 1px solid #eee; padding: 15px; border-radius: 6px;">
     <div style="text-align: center; font-weight: bold; margin-bottom: 10px;">Hydro-Environmental Modelling</div>
-    <p style="font-size: 0.9em; color: #555; text-align: left; line-height: 1.5;">Coupling process-based mechanistic simulations with data-driven techniques to enhance predictive accuracy in complex aquatic systems.</p>
+    <p style="font-size: 0.9em; color: #555; text-align: left; line-height: 1.5;">Advanced process-based model with data-driven techniques to enhance predictive accuracy in complex aquatic systems.</p>
   </div>
 
   <div style="border: 1px solid #eee; padding: 15px; border-radius: 6px;">
     <div style="text-align: center; font-weight: bold; margin-bottom: 10px;">Contaminant Fate & Transport</div>
-    <p style="font-size: 0.9em; color: #555; text-align: left; line-height: 1.5;">Elucidating the transport and transformation of contaminants across watershed-to-coastal continua for regional risk assessment.</p>
+    <p style="font-size: 0.9em; color: #555; text-align: left; line-height: 1.5;">Elucidating the transport and fate of contaminants across watershed-to-coastal continua for regional risk assessment.</p>
   </div>
 
-  <div style="border: 1px solid #eee; padding: 15px; border-radius: 6px;">
-    <div style="text-align: center; font-weight: bold; margin-bottom: 10px;">Digital Waters</div>
-    <p style="font-size: 0.9em; color: #555; text-align: left; line-height: 1.5;">Fusing real-time sensing with high-fidelity modelling to create dynamic digital replicas for intelligent water governance.</p>
-  </div>
 
   <div style="border: 1px solid #eee; padding: 15px; border-radius: 6px;">
     <div style="text-align: center; font-weight: bold; margin-bottom: 10px;">Big Data & Mining</div>
     <p style="font-size: 0.9em; color: #555; text-align: left; line-height: 1.5;">Leveraging machine learning to extract non-linear spatiotemporal patterns from heterogeneous environmental datasets.</p>
   </div>
 
-  <div style="border: 1px solid #eee; padding: 15px; border-radius: 6px;">
-    <div style="text-align: center; font-weight: bold; margin-bottom: 10px;">Remote Sensing Synergy</div>
-    <p style="font-size: 0.9em; color: #555; text-align: left; line-height: 1.5;">Integrating satellite, UAV, and ground-based observations into numerical models for comprehensive monitoring and early warning.</p>
+    <div style="border: 1px solid #eee; padding: 15px; border-radius: 6px;">
+    <div style="text-align: center; font-weight: bold; margin-bottom: 10px;">Digital Waters</div>
+    <p style="font-size: 0.9em; color: #555; text-align: left; line-height: 1.5;">Fusing real-time sensing with high-fidelity modelling to create dynamic digital replicas for intelligent water governance.</p>
   </div>
+
 
 </div>
