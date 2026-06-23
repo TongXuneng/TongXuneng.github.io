@@ -13,9 +13,9 @@ redirect_from:
 
 <h3>Academic Qualifications</h3>
 <ul>
-  <li><strong>Ph.D. in Environmental Engineering</strong>, National University of Singapore, 2023</li>
-  <li><strong>B.Eng. in Environmental Science</strong>, Hohai University, 2019</li>
-  <li><strong>Dual-B.B.A. in Business Administration</strong>, Hohai University, 2019</li>
+  <li>Ph.D. in Environmental Engineering, National University of Singapore, 2023</li>
+  <li>B.Eng. in Environmental Science, Hohai University, 2019</li>
+  <li>Dual-B.B.A. in Business Administration, Hohai University, 2019</li>
 </ul>
 
 <h3>Employment Experience</h3>
