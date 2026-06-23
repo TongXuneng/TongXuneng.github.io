@@ -23,12 +23,12 @@ redirect_from:
   <!-- 每个卡片采用左对齐 -->
   <div style="border: 1px solid #eee; padding: 15px; border-radius: 6px;">
     <div style="text-align: center; font-weight: bold; margin-bottom: 10px;">Hydro-Environmental Modelling</div>
-    <p style="font-size: 0.9em; color: #555; text-align: left; line-height: 1.5;">Advanced process-based model with data-driven techniques to enhance predictive accuracy in complex aquatic systems.</p>
+    <p style="font-size: 0.9em; color: #555; text-align: left; line-height: 1.5;">Advanced process-based model with data-driven techniques to understand the complex aquatic systems.</p>
   </div>
 
   <div style="border: 1px solid #eee; padding: 15px; border-radius: 6px;">
     <div style="text-align: center; font-weight: bold; margin-bottom: 10px;">Contaminant Fate & Transport</div>
-    <p style="font-size: 0.9em; color: #555; text-align: left; line-height: 1.5;">Elucidating the transport and fate of contaminants across watershed-to-coastal continua for regional risk assessment.</p>
+    <p style="font-size: 0.9em; color: #555; text-align: left; line-height: 1.5;">Elucidating the transport and fate of contaminants across watershed-to-coastal continua for ecosystem assessment.</p>
   </div>
 
 
