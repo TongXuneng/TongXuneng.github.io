@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <!-- 个人简介：采用左对齐，但增加行高，视觉上依然很整齐 -->
-<div style="text-align: left; line-height: 1.6; margin-bottom: 30px;">
+<div style="text-align: justify; line-height: 1.6; word-break: break-word; hyphens: auto;">
   We are a research team based at the <a href="https://www.cityu.edu.hk/see/">School of Energy and Environment</a> and <a href="https://www.cityu.edu.hk/sklmeh/">State Key Laboratory of Marine Environmental Health</a>, City University of Hong Kong. We integrate advanced process-based modelling and data-driven computational approaches to understand aquatic dynamics and contaminant transport. Our work bridges theoretical modeling with field-scale applications to support sustainable water quality management and ecosystem resilience.
 </div>
 
