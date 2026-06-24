@@ -115,8 +115,15 @@ author_profile: true
   .info { flex: 1; }
   .info p { margin: 0 0 5px 0 !important; font-size: 0.95em; }
   
-  /* 学历样式 */
-  .edu-list { margin: 5px 0 0 0; padding-left: 18px; font-size: 0.9em; color: #555; }
+  /* 已修改：去掉圆点，移除左侧边距 */
+  .edu-list { 
+    margin: 5px 0 0 0; 
+    padding-left: 0 !important; 
+    list-style-type: none !important; 
+    font-size: 0.9em; 
+    color: #555; 
+  }
+  
   .edu-split { margin-top: 5px; font-size: 0.85em; color: #555; line-height: 1.4; }
   .edu-split div { margin-bottom: 2px; }
 </style>
